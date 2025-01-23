@@ -2552,7 +2552,7 @@ main .sec-3 .sec-3-inner .sec-3-scroll .bg {
 }
 
 main .sec-3 .sec-3-inner .sec-3-scroll .bg.on-screen {
-    background-image: url(../images/index/mobile-sec-3-bg.jpg);
+    background-image: url(../images/index/sec-3-bg.jpg);
 }
 
 @media (min-width: 759px) {
@@ -2831,32 +2831,34 @@ main .teaser .bg {
 }
 
 main .teaser.elli .bg.on-screen {
-    background-image: url(../images/index/elli-bg-mobile.jpg);
+    background-image: url(../images/index/hi.jpg);
 }
 
 @media (min-width: 759px) {
     main .teaser.elli .bg.on-screen {
-        background-image: url(../images/index/elli-bg.jpg);
+        background-image: url(../images/index/hi.jpg);
     }
 }
 
 main .teaser.um .bg.on-screen {
-    background-image: url(../images/index/um-bg-mobile.jpg);
+    background-image: url(../images/index/hiii.jpg);
 }
 
 @media (min-width: 759px) {
     main .teaser.um .bg.on-screen {
-        background-image: url(../images/index/um-bg.jpg);
+        background-image: url(../images/index/hiii.jpg);
     }
 }
 
 main .teaser.times .bg.on-screen {
-    background-image: url(../images/index/times-bg-mobile.jpg);
+    background-image: url(../images/index/hii.jpg);
 }
 
 @media (min-width: 759px) {
     main .teaser.times .bg.on-screen {
-        background-image: url(../images/index/times-bg.jpg);
+        background-color: black;
+        color: black;
+        background-image: url(../images/index/hii.jpg);
     }
 }
 
